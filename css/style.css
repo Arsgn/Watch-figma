@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "League Spartan", sans-serif;
+}
+
+#Watch {
+  padding: 60px 0;
+}
+
+.container {
+  background: #f8f8f8;
+  height: 780px;
+}
+
+.Watch {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Watch-text h4 {
+  margin-left: 70px;
+  margin-bottom: 50px;
+}
+
+.title {
+  font-size: 180px;
+  justify-content: start;
+  display: flex;
+  margin-left: 70px;
+  margin-bottom: 35px;
+}
+
+.Watch img {
+  display: flex;
+  justify-content: start;
+  margin-right: 80px;
+  margin-bottom: 50px;
+  width: 420px;
+}
+
+.text {
+  font-size: 25px;
+  line-height: 50px;
+  margin-left: 70px;
+  margin-bottom: 45px;
+}
+
+.box-buy {
+  margin-left: 70px;
+  display: flex;
+}
+
+.box-buy a {
+  color: #fff;
+  background: black;
+  text-decoration: none;
+  padding: 20px 45px;
+  font-size: 20px;
+}
+
+.box-buy h3 {
+  margin-top: 1px;
+  font-size: 20px;
+  background: #fff;
+  padding: 20px 30px;
+  color: #000000;
+}
+
+.Watch-text-2 h4 {
+  margin-left: 640px;
+  margin-top: 20px;
+}
+
+.Watch-text-2 h1 {
+  margin-left: 580px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  font-size: 55px;
+}
+
+.Watch-text-2 h2 {
+  margin-left: 625px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  font-size: 35px;
+}
+
+.Watch-text-2 p {
+  text-align: center;
+  line-height: 45px;
+  margin-bottom: 75px;
+  font-size: 20px;
+}
+
+.Watch-text-2 .box {
+  width: 330px;
+  height: 550px;
+  background: #f8f8f8;
+  margin-left: 480px;
+  padding: 35px 30px;
+}
+
+.box img {
+  margin: 30px;
+  padding: 45px 0;
+}
+
+.box-2 img {
+  background: #f8f8f8;
+  margin-top: 50px;
+}
+
+.Watch-text-3 .box-2 {
+  width: 500px;
+  height: 600px;
+  background: #f8f8f8;
+  margin-left: 420px;
+}
+
+.Watch-text-3 h2 {
+  margin-left: 625px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  font-size: 35px;
+}
+
+.Watch-text-3 p {
+  text-align: center;
+  line-height: 45px;
+  margin-bottom: 75px;
+  font-size: 20px;
+}
+
+.Text-text h2 {
+  margin-left: 535px;
+  margin-top: 160px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+.Text-text .box-3 {
+  width: 200px;
+  height: 1.4px;
+  background: #707070;
+  margin-left: 577px;
+}
+
+.Text-text p {
+  text-align: center;
+  line-height: 38px;
+  margin-bottom: 75px;
+  font-size: 17px;
+  margin-top: 50px;
+}
+
+.Text-text p span {
+  color: rgb(150, 107, 15);
+}
